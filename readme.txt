@@ -1,26 +1,18 @@
-ÊµÑéÆ÷²Ä:
-	Ì½Ë÷ÕßSTM32F4¿ª·¢°å
+å®žéªŒå™¨æ:
+	æŽ¢ç´¢è€…STM32F4å¼€å‘æ¿
 	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°GPIO×÷ÎªÊä³öµÄÊ¹ÓÃ
+å®žéªŒç›®çš„:
+	å­¦ä¹ GPIOä½œä¸ºè¾“å‡ºçš„ä½¿ç”¨
 	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPF9) 
-	2,DS1(Á¬½ÓÔÚPF10)
+ç¡¬ä»¶èµ„æº:
+	1,DS0(è¿žæŽ¥åœ¨PF9) 
+	2,DS1(è¿žæŽ¥åœ¨PF10)
 	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑéÍ¨¹ý´úÂë¿ØÖÆ¿ª·¢°åÉÏµÄÁ½¸öLED£ºDS0ºÍDS1½»ÌæÉÁË¸£¬ÊµÏÖÀàËÆÅÜÂíµÆµÄÐ§¹û 
+å®žéªŒçŽ°è±¡:
+	æœ¬å®žéªŒé€šè¿‡ä»£ç æŽ§åˆ¶å¼€å‘æ¿ä¸Šçš„ä¸¤ä¸ªLEDï¼šDS0å’ŒDS1äº¤æ›¿é—ªçƒï¼Œå®žçŽ°ç±»ä¼¼è·‘é©¬ç¯çš„æ•ˆæžœ 
 	
-×¢ÒâÊÂÏî:
-	ÎÞ. 
+æ³¨æ„äº‹é¡¹:
+	æ— . 
 
-						ÕýµãÔ­×Ó@ALIENTEK
-						2014-10-24
-						¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-						µç»°£º020-38271790
-						´«Õæ£º020-36773971
-						¹ºÂò£ºhttp://shop62103354.taobao.com
-						http://shop62057469.taobao.com
-						¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-						¼¼ÊõÂÛÌ³£ºwww.openedv.com
+						
               
